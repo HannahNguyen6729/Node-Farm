@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannahNguyen6729/Node-Farm.git"
+  },
+  "author": "Hanh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannahNguyen6729/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/HannahNguyen6729/Node-Farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
