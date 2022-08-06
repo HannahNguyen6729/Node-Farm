@@ -21,7 +21,7 @@ const renderCard = (template, item)=>{
     if(item.organic){
         card = card.replace(/{%isOrganic%}/g, 'ORGANIC')
     }else{
-        card = card.replace(/{%isOrganic%}/g, 'NON-ORGANIC')
+        card = card.replace(/{%isOrganic%}/g, 'NON-OC')
     }
     return card;
 }
