@@ -12,5 +12,4 @@ Users should be able to:
 - Choose item they want to see in detail and back to home page
 
 # How to run the app
-- node index.js
-- Go to the address: http://127.0.0.1:8000/overview
+- npm start
